@@ -65,7 +65,7 @@ as a references:
 
 i use a past codes from the bootcamp and assignments and improved them
 
-ChatGpt as a helper for the errors that apear 
+ChatGpt as a helper for the errors that apear (most catch and try from it)
 
 youtube so i can have a wide pov 
 
