@@ -62,12 +62,16 @@ A full summary of player accomplishments can be found on the Scoreboard Page. It
 at the end i want to thank Mr.Mohammad Alawashez for helping and teaching me 
 
 as a references:
+
 i use a past codes from the bootcamp and assignments and improved them
+
 ChatGpt as a helper for the errors that apear 
+
 youtube so i can have a wide pov 
 
 
 you can contect me on discord for any advice or questions 😊 
+
 Discord : lemonadex.x 
 
 
