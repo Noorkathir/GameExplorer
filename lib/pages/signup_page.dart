@@ -38,7 +38,7 @@ class _SignupPageState extends State<SignupPage> {
     try {
       final int playerId = int.parse(playerIdText);
 
-      // Check if the player already exists
+      // Check if the player already exists (may be in try )
       final bool exists = await db.isPlayerExists(playerName, playerId);
 
       if (exists) {
