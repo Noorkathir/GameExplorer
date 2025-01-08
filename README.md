@@ -59,7 +59,7 @@ The results page shows whether the user's guess was correct or wrong for the giv
 A full summary of player accomplishments can be found on the Scoreboard Page. It provides a simple and straightforward overview of the player's performance by showing their name, unique ID, and current score. Users may easily return to the main menu for additional exploring or gameplay due to the design's goal of accessibility and simplicity.
 
 
-at the end i want to thank mr.mohammad alwashiz for helping and teaching me 
+at the end i want to thank Mr.Mohammad Alawashez for helping and teaching me 
 
 as a references:
 i use a past codes from the bootcamp and assignments and improved them
