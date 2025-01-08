@@ -57,7 +57,7 @@ class ScoresPage extends StatelessWidget {
                   textAlign: TextAlign.center,
                 ),
               ),
-              // Player List
+              // snap1
               Expanded(
                 child: FutureBuilder<List<Player>>(
                   future: fetchScores(),
